@@ -26,7 +26,7 @@ What I’m sharing here is a collection of some best resources about Hacking & P
 
 ## Books
 
--	[Linux basics for hackers by Occupy]([https://amzn.to/3A2oJM1](https://www.amazon.com/dp/1593278551?&linkCode=sl1&tag=networkexpe08-20&linkId=0a9fc79ead175f91db781179c501c12e&language=en_US&ref_=as_li_ss_tl))
+-	[Linux basics for hackers by Occupy](https://www.amazon.com/dp/1593278551?&linkCode=sl1&tag=networkexpe08-20&linkId=0a9fc79ead175f91db781179c501c12e&language=en_US&ref_=as_li_ss_tl)
 
 1. The Hacker Playbook 2: Practical Guide To Penetration Testing
 2.	The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing Made Easy
